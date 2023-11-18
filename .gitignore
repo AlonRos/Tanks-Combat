@@ -1,0 +1,8 @@
+.vs
+Debug
+Player/Debug
+Server/Debug
+*.vcxproj
+*.zip
+*.filters
+*.user
